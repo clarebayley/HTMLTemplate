@@ -2,3 +2,7 @@
 HTMLTemplate.esproj/Project.espressostorage
 
 HTMLTemplate.esproj/user.clare.espressostorage
+
+.DS_Store
+
+*.espressostorage
